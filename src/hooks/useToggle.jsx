@@ -11,4 +11,4 @@ function useToggle(initialValue) {
     return [value, toggle];
 }
 
-export {useToggle};
+export { useToggle };
